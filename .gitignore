@@ -1,0 +1,14 @@
+# build artifacts
+intercept.so
+intercept.o
+
+# npm tarball
+oven-bun-linux-aarch64-musl-*.tgz
+package/
+
+# local install bundle
+.bun/
+
+# OS files
+.DS_Store
+Thumbs.db
